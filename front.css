@@ -1,0 +1,68 @@
+.card {
+    margin: 2rem auto 6rem;
+    width: 50%;
+    text-align: center;
+}
+.newBtn{
+    background-color: #FFDDA6;
+}
+.newBtn:hover{
+    color: #ffffff;
+}
+.headText{
+    background-color: #FFDDA6;
+    margin: 1rem 4rem;
+    text-align: center;
+    display: inline;
+    padding: 12px;
+}
+.topFloated{
+    display: inline;
+    margin: 1rem;
+}
+.right{
+    text-align: right;
+}
+.header1 {
+    background-color: #FFDDA6;
+    border-radius: 10%;
+    display: inline-block;
+    padding: 12px;
+    color: #635DFF;
+}
+.header2{
+    background-color: blanchedalmond;
+    border-radius: 10%;
+    display: inline-block;
+    padding: 12px;
+}
+.header4 {
+    background-color: #FFDDA6;
+    border-radius: 10%;
+    display: inline-block;
+    color: #BA23F6;
+}
+.cancelBtn{
+    margin-right: 8rem;
+}
+.proceedBtn{
+    margin-left: 8rem;
+}
+.red{
+    color: #ffffff;
+    background-color: #e81313;
+    border-radius: 10%;
+}
+.red:hover {
+    background-color: #ff7c7c;   
+    color: #ffffff;
+}
+.blue{
+    color: #ffffff;
+    background-color: #1071e5;
+    border-radius: 10%;
+}
+.blue:hover{
+    background-color: #78b5ff;  
+    color: #ffffff;
+}
